@@ -24,3 +24,4 @@ for i, j in friendship_pairs:
     friendships[j].append(i) # Adiciona i como amigo do usuário j
     
 #teste    
+#teste
