@@ -22,3 +22,5 @@ friendships = {user["id"]: [] for user in users}
 for i, j in friendship_pairs:
     friendships[i].append(j) # Adiciona j como amigo do usuário i
     friendships[j].append(i) # Adiciona i como amigo do usuário j
+    
+#teste    
